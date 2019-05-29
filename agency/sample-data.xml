@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.2" created="2019-05-21 16:50" -->
+	<!-- generator="WordPress/5.2.1" created="2019-05-29 17:43" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,8 +29,8 @@
 	<title>Agency</title>
 	<link>http://agency.wpazure.com</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Tue, 21 May 2019 16:50:26 +0000</pubDate>
-	<language>en-US</language>
+	<pubDate>Wed, 29 May 2019 17:43:05 +0000</pubDate>
+	<language>en</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://agency.wpazure.com</wp:base_site_url>
 	<wp:base_blog_url>http://agency.wpazure.com</wp:base_blog_url>
@@ -42,54 +42,94 @@
 		<wp:category_nicename><![CDATA[business]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Business]]></wp:cat_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:termmeta>
 	</wp:category>
 		<wp:category>
 		<wp:term_id>14</wp:term_id>
 		<wp:category_nicename><![CDATA[meeting]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[meeting]]></wp:cat_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:termmeta>
 	</wp:category>
 		<wp:category>
 		<wp:term_id>1</wp:term_id>
 		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:termmeta>
 	</wp:category>
 		<wp:category>
 		<wp:term_id>10</wp:term_id>
 		<wp:category_nicename><![CDATA[wordpress]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Wordpress]]></wp:cat_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:termmeta>
 	</wp:category>
 			<wp:tag>
 		<wp:term_id>6</wp:term_id>
 		<wp:tag_slug><![CDATA[busniness]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Busniness]]></wp:tag_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:termmeta>
 	</wp:tag>
 		<wp:tag>
 		<wp:term_id>7</wp:term_id>
 		<wp:tag_slug><![CDATA[css]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[CSS]]></wp:tag_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:termmeta>
 	</wp:tag>
 		<wp:tag>
 		<wp:term_id>12</wp:term_id>
 		<wp:tag_slug><![CDATA[foot]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[foot]]></wp:tag_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:termmeta>
 	</wp:tag>
 		<wp:tag>
 		<wp:term_id>5</wp:term_id>
 		<wp:tag_slug><![CDATA[html]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[HTML]]></wp:tag_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:termmeta>
 	</wp:tag>
 		<wp:tag>
 		<wp:term_id>13</wp:term_id>
 		<wp:tag_slug><![CDATA[meeting]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[meeting]]></wp:tag_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:termmeta>
 	</wp:tag>
 		<wp:tag>
 		<wp:term_id>4</wp:term_id>
 		<wp:tag_slug><![CDATA[php]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[PHP]]></wp:tag_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:termmeta>
 	</wp:tag>
 		<wp:tag>
 		<wp:term_id>11</wp:term_id>
@@ -100,6 +140,10 @@
 		<wp:term_id>8</wp:term_id>
 		<wp:tag_slug><![CDATA[wordpress]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[WordPress]]></wp:tag_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:termmeta>
 	</wp:tag>
 			<wp:term>
 		<wp:term_id><![CDATA[2]]></wp:term_id>
@@ -111,7 +155,7 @@
 			<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[menu]]></wp:term_slug><wp:term_name><![CDATA[Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.2</generator>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 
 <image>
 	<url>http://agency.wpazure.com/wp-content/uploads/2019/05/azure-favicon.png</url>
@@ -2303,6 +2347,10 @@ admin@yoursite.com
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[56]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>1</wp:comment_id>
 			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
@@ -2470,6 +2518,10 @@ This e-mail was sent from a contact form on My blog (http://agency.wpazure.com)"
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[251]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>Wondering How To Make Your work Rock?</title>
@@ -2502,6 +2554,10 @@ This e-mail was sent from a contact form on My blog (http://agency.wpazure.com)"
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<category domain="post_tag" nicename="wordpress"><![CDATA[WordPress]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[248]]></wp:meta_value>
 		</wp:postmeta>

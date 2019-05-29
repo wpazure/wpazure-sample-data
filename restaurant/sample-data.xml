@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.2" created="2019-05-15 12:49" -->
+	<!-- generator="WordPress/5.2.1" created="2019-05-29 17:51" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Restaurant</title>
 	<link>http://restaurant.wpazure.com</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Wed, 15 May 2019 12:49:08 +0000</pubDate>
+	<pubDate>Wed, 29 May 2019 17:51:29 +0000</pubDate>
 	<language>en</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://restaurant.wpazure.com</wp:base_site_url>
@@ -42,24 +42,40 @@
 		<wp:category_nicename><![CDATA[food]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Food]]></wp:cat_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:termmeta>
 	</wp:category>
 		<wp:category>
 		<wp:term_id>22</wp:term_id>
 		<wp:category_nicename><![CDATA[hunger]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Hunger]]></wp:cat_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:termmeta>
 	</wp:category>
 		<wp:category>
 		<wp:term_id>20</wp:term_id>
 		<wp:category_nicename><![CDATA[restaurant]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Restaurant]]></wp:cat_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:termmeta>
 	</wp:category>
 		<wp:category>
 		<wp:term_id>1</wp:term_id>
 		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:termmeta>
 	</wp:category>
 				<wp:term>
 		<wp:term_id><![CDATA[18]]></wp:term_id>
@@ -73,7 +89,7 @@
 	<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.2</generator>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 
 <image>
 	<url>http://restaurant.wpazure.com/wp-content/uploads/2019/05/azure-favicon.png</url>
@@ -1962,6 +1978,10 @@ Use your company's blog posts to opine on current industry topics, humanize your
 		<wp:meta_value><![CDATA[34]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpnux_page]]></wp:meta_key>
 		<wp:meta_value><![CDATA[blog_post]]></wp:meta_value>
 		</wp:postmeta>
@@ -2988,6 +3008,10 @@ This e-mail was sent from a contact form on wpazure (http://restaurant.wpazure.c
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[389]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>How to make tanduri chicken ?</title>
@@ -3018,6 +3042,10 @@ It is a long established fact that a reader will be distracted by the readable c
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[388]]></wp:meta_value>
 		</wp:postmeta>
